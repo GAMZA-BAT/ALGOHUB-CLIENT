@@ -1,5 +1,5 @@
-const GroupDashboardPage = () => {
-  return <div>GroupDashboardPage</div>;
+const GroupPage = () => {
+  return <h1>GroupPage</h1>;
 };
 
-export default GroupDashboardPage;
+export default GroupPage;
